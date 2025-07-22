@@ -80,7 +80,7 @@ db/*.trace.db
 # Скомпилированные файлы
 *.class
 *.jar
-target/
+# target/
 bin/
 
 # Системные файлы
