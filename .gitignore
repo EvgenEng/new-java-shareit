@@ -1,0 +1,100 @@
+HEAD
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+
+### Java ###
+# Скомпилированные файлы
+*.class
+*.jar
+*.war
+*.ear
+
+# Файлы сборки
+/target/
+/bin/
+/build/
+/logs/
+
+### IDE ###
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.factorypath
+
+# VS Code
+.vscode/
+
+# NetBeans
+
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+ HEAD
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+*.xml
+.idea/
+.github/
+
+# Бинарные файлы БД
+db/*.db
+db/*.trace.db
+
+# Скомпилированные файлы
+*.class
+*.jar
+target/
+bin/
+
+# Системные файлы
+.DS_Store
+*.iml
+.idea/
+
+### Системные файлы ###
+.DS_Store
+Thumbs.db
+*.log
+
+### Исключения ###
+!**/src/main/**/target/
+!**/src/test/**/target/
+!.mvn/wrapper/maven-wrapper.jar
+
